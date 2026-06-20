@@ -89,10 +89,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "fa7-brands:qq",
 			},
 			{
-				name: "小生图床",
-				url: "https://img.zsso.net",
+				name: "小生导航站",
+				url: "https://zsso.work",
 				external: true,
-				icon: "fa7-brands:gitee",
+				icon: "fa fa-cog:导航",
 			},
 		],
 	});
