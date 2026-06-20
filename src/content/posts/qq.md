@@ -15,8 +15,8 @@ pinned: true
 
 ## 服务入口
 
-- **官网导航**：[https://qq.dc.lc/](https://qq.dc.lc/)
-- **用户注册**：[https://qq.qqadg.cn](https://qq.qqadg.cn/user/reg.php)（新用户可体验1小时）
+- **官网导航**：[u.zsso.net](https://u.zsso.net)
+- **用户注册**：[点我去注册](https://qq.qqadg.cn/user/reg.php)（新用户可体验1小时）
 
 ## 核心功能亮点
 
