@@ -2,7 +2,7 @@
 title: "MoePal v4.1 重磅更新｜原萌娘助手全面升级，十大网盘一站搞定！"
 published: 2026-06-21
 description: "MoePal v4.1 全面兼容夸克、百度、阿里、天翼等十大网盘，提供高速解析、批量下载、断点续传功能，附官方下载及卡密购买指南。"
-image: "https://file.zsso.cn/articleCover/ZSSO11782029239927260.png"
+image: "https://file.zsso.cn/articlePicture/ZSSO11782029702245930.png"
 tags: ["MoePal", "网盘下载", "云盘管理", "下载工具", "夸克网盘", "百度网盘"]
 category: "软件工具"
 draft: false
@@ -38,6 +38,17 @@ MoePal v4.1 最大的亮点，就是**全面兼容十大主流网盘平台**：
 | 10 | 天翼网盘 |
 
 **无需为每个网盘单独下载客户端**，一个 MoePal 就能覆盖你所有的网盘下载需求。尤其值得一提的是，**夸克网盘与 123 网盘支持免费解析下载，不限次数与文件大小**，让你彻底告别会员限制和下载焦虑。
+
+## 软件界面预览
+
+以下是 MoePal v4.1 的主要界面截图，让您提前感受软件的清爽风格：
+
+| | |
+|:---:|:---:|
+| ![主界面](https://file.zsso.cn/articlePicture/ZSSO11782029702245930.png) | ![解析下载界面](https://file.zsso.cn/articlePicture/ZSSO11782029836545513.png) |
+| 主界面 | 解析下载 |
+| ![网盘支持列表](https://file.zsso.cn/articlePicture/ZSSO11782029836553944.png) | ![账号设置界面](https://file.zsso.cn/articlePicture/ZSSO11782029836536954.png) |
+| 十大网盘支持 | 账号与设备管理 |
 
 ## 核心功能一览
 
