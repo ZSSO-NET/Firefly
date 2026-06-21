@@ -2,7 +2,7 @@
 title: "MoePal v4.1 重磅更新｜原萌娘助手全面升级，十大网盘一站搞定！"
 published: 2026-06-21
 description: "MoePal v4.1 全面兼容夸克、百度、阿里、天翼等十大网盘，提供高速解析、批量下载、断点续传功能，附官方下载及卡密购买指南。"
-image: "https://file.zsso.cn/articlePicture/ZSSO11782029702245930.png"
+image: "https://file.zsso.cn/articleCover/ZSSO11782029239927260.png"
 tags: ["MoePal", "网盘下载", "云盘管理", "下载工具", "夸克网盘", "百度网盘"]
 category: "软件工具"
 draft: false
@@ -41,14 +41,30 @@ MoePal v4.1 最大的亮点，就是**全面兼容十大主流网盘平台**：
 
 ## 软件界面预览
 
-以下是 MoePal v4.1 的主要界面截图，让您提前感受软件的清爽风格：
+以下是 MoePal v4.1 的主要界面截图，让您提前感受软件的清爽风格。图片会自动适应屏幕宽度，在手机和电脑上都能获得良好浏览体验。
 
-| | |
-|:---:|:---:|
-| ![主界面](https://file.zsso.cn/articlePicture/ZSSO11782029702245930.png) | ![解析下载界面](https://file.zsso.cn/articlePicture/ZSSO11782029836545513.png) |
-| 主界面 | 解析下载 |
-| ![网盘支持列表](https://file.zsso.cn/articlePicture/ZSSO11782029836553944.png) | ![账号设置界面](https://file.zsso.cn/articlePicture/ZSSO11782029836536954.png) |
-| 十大网盘支持 | 账号与设备管理 |
+<table style="width:100%; border-collapse:collapse; table-layout:fixed;">
+  <tr>
+    <td style="width:50%; text-align:center; padding:8px; vertical-align:top;">
+      <img src="https://file.zsso.cn/articlePicture/ZSSO11782029702245930.png" style="width:100%; height:auto; max-width:400px; display:block; margin:0 auto;" alt="主界面">
+      <div style="margin-top:4px; font-weight:bold;">主界面</div>
+    </td>
+    <td style="width:50%; text-align:center; padding:8px; vertical-align:top;">
+      <img src="https://file.zsso.cn/articlePicture/ZSSO11782029836545513.png" style="width:100%; height:auto; max-width:400px; display:block; margin:0 auto;" alt="解析下载界面">
+      <div style="margin-top:4px; font-weight:bold;">解析下载</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%; text-align:center; padding:8px; vertical-align:top;">
+      <img src="https://file.zsso.cn/articlePicture/ZSSO11782029836553944.png" style="width:100%; height:auto; max-width:400px; display:block; margin:0 auto;" alt="网盘支持列表">
+      <div style="margin-top:4px; font-weight:bold;">十大网盘支持</div>
+    </td>
+    <td style="width:50%; text-align:center; padding:8px; vertical-align:top;">
+      <img src="https://file.zsso.cn/articlePicture/ZSSO11782029836536954.png" style="width:100%; height:auto; max-width:400px; display:block; margin:0 auto;" alt="账号设置界面">
+      <div style="margin-top:4px; font-weight:bold;">账号与设备管理</div>
+    </td>
+  </tr>
+</table>
 
 ## 核心功能一览
 
