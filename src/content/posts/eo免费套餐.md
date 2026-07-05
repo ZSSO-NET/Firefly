@@ -2,7 +2,7 @@
 title: "腾讯云 EdgeOne 免费额度再加码！三大渠道独立领取，不冲突不浪费"
 published: 2026-07-05
 description: "腾讯云 EdgeOne 三大免费套餐领取渠道全汇总——宝塔联动版、免费套餐内测版、周年活动版，每个渠道独立叠加免费额度，与兑换码不冲突，最少增加2个名额！"
-image: ""
+image: "https://file.zsso.cn/articleCover/ZSSO11783254965859474.png"
 tags: ["腾讯云", "EdgeOne", "免费套餐", "CDN", "网站加速", "DDoS防护"]
 category: "云计算"
 draft: false
